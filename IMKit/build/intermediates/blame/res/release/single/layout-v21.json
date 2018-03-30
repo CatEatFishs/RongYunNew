@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "D:\\LM\\AndroidJob\\RongYunNew\\IMKit\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    }
+]

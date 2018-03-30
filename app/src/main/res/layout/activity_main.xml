@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical"
+    tools:context="com.lm.rongyunnew.MainActivity">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="聊天界面"
+        android:id="@+id/btn_chat_main"
+        android:layout_gravity="center"
+        android:layout_marginTop="126dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_chatlist_main"
+        android:layout_gravity="center"
+        android:text="会话列表"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_createGroup_main"
+        android:layout_gravity="center"
+        android:text="创建群聊"/>
+    <EditText
+        android:text="123"
+        android:id="@+id/ed_id_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+    <Button
+        android:text="进入讨论组"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/btn_joingroup_main"/>
+    <Button
+        android:text="添加好友到讨论组"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/btn_addgroup_main"/>
+    <Button
+        android:text="移除好友到讨论组"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/btn_delgroup_main"/>
+    <Button
+        android:text="发送消息"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:id="@+id/btn_sendmessage_main"/>
+
+</LinearLayout>
